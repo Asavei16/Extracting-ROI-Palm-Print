@@ -1,6 +1,6 @@
 # Effectual-Palm-RoI-Extraction
 
-Python implementation of the Palmprint RoI extraction algorithm from [An Effectual Method for Extraction of ROI of Palmprints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6398207&tag=1)
+Python implementation of the Palmprint RoI (Region Of Interest) extraction algorithm from [An Effectual Method for Extraction of ROI of Palmprints](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=6398207&tag=1)
 
 ## Algorithm
 - Image is blurred and mask is extracted using Otsu Binarization.
